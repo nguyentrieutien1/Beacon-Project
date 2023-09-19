@@ -6,3 +6,4 @@ secret_config.json
 
 # Loại trừ các thư mục con
 logs/
+# 
