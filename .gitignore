@@ -1,0 +1,8 @@
+# Loại trừ thư mục của môi trường ảo
+venv/
+
+# Loại trừ tệp tin cụ thể
+secret_config.json
+
+# Loại trừ các thư mục con
+logs/
