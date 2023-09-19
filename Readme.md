@@ -1,4 +1,4 @@
-# Project Name
+# Beacon Project
 
 
 # Server
